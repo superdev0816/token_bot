@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "discord.js": "^14.10.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "etherscan-api": "^10.2.0"
+  }
+}
